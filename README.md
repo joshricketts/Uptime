@@ -14,7 +14,8 @@ Credit to Bart Reardon as I'm utilizing his #SwiftDialog tool to create the wind
 
 
 **Notification** (shows up in the middle of the screen, and is relocatable). 
-<img width="816" alt="Uptime notification" src="https://user-images.githubusercontent.com/105330539/168410686-9d577681-0dad-4e7c-bf6c-d9eb8afed08b.png">
+![Uptime notification](https://user-images.githubusercontent.com/105330539/168410865-e6eebbcd-764b-4fcf-829d-916b67ebefd9.jpg)
+
 
 
 **Confirmation** (shows up after user clicks "Restart" on first window). 
