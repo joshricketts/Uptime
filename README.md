@@ -1,5 +1,5 @@
+![clock@2x](https://user-images.githubusercontent.com/105330539/168405362-c26032bd-19e2-4524-82ef-059793854e0a.png)!
 
-![clock arrow circlepath@2x](https://user-images.githubusercontent.com/105330539/167984051-e89a5b5c-4d6c-47a5-9862-cc85abf14dc9.png)
 
 # Uptime
 
