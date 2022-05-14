@@ -1,4 +1,4 @@
-![clock@2x](https://user-images.githubusercontent.com/105330539/168405362-c26032bd-19e2-4524-82ef-059793854e0a.png)!
+![clock@2x](https://user-images.githubusercontent.com/105330539/168405362-c26032bd-19e2-4524-82ef-059793854e0a.png)
 
 
 # Uptime
