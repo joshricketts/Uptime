@@ -25,14 +25,16 @@ Credit to Bart Reardon as I'm utilizing his #SwiftDialog tool to create the wind
 
 
 
-
-**Force Prompt** (shows up after 30 days as long as the user has postponed a restart at least 10 times).
+**Demand Prompt** (shows up after 30 days as long as the user has postponed a restart at least 10 times).
 
 <img width="751" alt="Screen Shot 2022-06-26 at 11 13 56 AM" src="https://user-images.githubusercontent.com/105330539/175823631-ba78890d-9e58-42e5-98cb-a48e5c5f3b79.png">
+
 
 
 **Timer Reset mini window** (shows up in the bottom right corner after clicking the "Reset my 10 minute timer" button on a force prompt). 
 
 <img width="251" alt="Screen Shot 2022-06-26 at 10 47 10 AM" src="https://user-images.githubusercontent.com/105330539/175823680-04225610-2d59-442e-83c3-8a86ab5f6dfe.png">
 
+
+**Force Warning** (shows up if user has figured out key combination to quit the SwiftDialog application, and has quit the program on the 'Confirmation' or 'Timer Reset' windows).
 
